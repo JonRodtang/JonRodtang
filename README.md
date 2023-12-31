@@ -1,2 +1,2 @@
 ### Hello there!
-Gotta collect them all.
+HPC is neat!
