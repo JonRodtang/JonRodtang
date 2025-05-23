@@ -1,2 +1,2 @@
 ### Hello there!
-Active at PVV, ITK, OV, HPC
+Active at PVV, ARK, OV, NTNU-IT HPC
